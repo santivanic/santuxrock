@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santuxrock from Argneinta
 - 👀 I’m interested in docker, fullstack and ansible
 - 🌱 I’m currently learning docker, python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web development, iaas
 - 📫 How to reach me @santivanic on telegram
 
 <!---
